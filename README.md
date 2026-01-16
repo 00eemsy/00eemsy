@@ -1,5 +1,3 @@
-![ring banner](https://64.media.tumblr.com/79a669f5103cb9d2acc52685d05f468e/58f7aab5fef60ba9-4e/s640x960/199364fb1565e85e0cbe91d98507e16d931980cd.pnj)
-
 Hello, world! My name is Emily Yu and I’m an aspiring SWE/Product Manager 👩🏻‍💻.
 
 A bit about me:
